@@ -1,3 +1,8 @@
+-- apprenant: WASSIM_HALITIM
+-- equipe: A|B|C|solo
+-- seed-w13: 2026-04-20
+
+
 CREATE DATABASE bibliotheque_w12
   CHARACTER SET utf8mb4
   COLLATE utf8mb4_unicode_ci;

@@ -1,3 +1,7 @@
+-- apprenant: WASSIM_HALITIM
+-- equipe: A|B|C|solo
+-- seed-w13: 2026-04-20
+
 CREATE TABLE auteurs (
   id INT UNSIGNED NOT NULL AUTO_INCREMENT,
   nom VARCHAR(120) NOT NULL,
